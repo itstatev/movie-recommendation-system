@@ -5,29 +5,29 @@ This project implements a movie recommendation system using PySpark. The system 
 ## Project Structure
 
 .
-├── data_processing
-│ ├── init.py
-│ └── data_processor.py
-├── models
-│ ├── init.py
-│ └── model_trainer.py
-├── test
-│ ├── init.py
-│ └── model_tester.py
-├── evaluation
-│ ├── init.py
-│ └── model_evaluator.py
-├── visualization
-│ ├── init.py
-│ └── results_visualization.py
-├── dataset
-│ ├── movies.csv
-│ └── ratings.csv
-├── processed_data
-├── models
-├── predictions
-├── visualizations
-└── main.py
+├── data_processing <br />
+│ ├── init.py <br />
+│ └── data_processor.py <br />
+├── models <br />
+│ ├── init.py <br />
+│ └── model_trainer.py <br />
+├── test <br />
+│ ├── init.py <br />
+│ └── model_tester.py <br />
+├── evaluation <br />
+│ ├── init.py <br />
+│ └── model_evaluator.py <br />
+├── visualization <br />
+│ ├── init.py <br />
+│ └── results_visualization.py <br />
+├── dataset <br />
+│ ├── movies.csv <br />
+│ └── ratings.csv <br />
+├── processed_data <br />
+├── models <br />
+├── predictions <br />
+├── visualizations <br />
+└── main.py <br />
 
 
 ## Requirements
