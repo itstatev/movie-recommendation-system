@@ -17,16 +17,12 @@ This project implements a movie recommendation system using PySpark. The system 
 ├── evaluation <br />
 │ ├── init.py <br />
 │ └── model_evaluator.py <br />
-├── visualization <br />
+├── visualizations <br />
 │ ├── init.py <br />
-│ └── results_visualization.py <br />
+│ └── visualizer.py <br />
 ├── dataset <br />
 │ ├── movies.csv <br />
 │ └── ratings.csv <br />
-├── processed_data <br />
-├── models <br />
-├── predictions <br />
-├── visualizations <br />
 └── main.py <br />
 
 
