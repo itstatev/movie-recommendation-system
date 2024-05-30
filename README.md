@@ -4,7 +4,7 @@ This project implements a movie recommendation system using PySpark. The system 
 
 ## Project Structure
 
-.
+. <br />
 ├── data_processing <br />
 │ ├── init.py <br />
 │ └── data_processor.py <br />
